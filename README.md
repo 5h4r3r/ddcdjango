@@ -1,4 +1,1 @@
 # ddcdjango
-test
-fd
-vds
